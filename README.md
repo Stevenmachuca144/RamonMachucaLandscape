@@ -1,2 +1,2 @@
 # RamonMachucaLandscape
-https://stevenmachuca144.github.io/RamonMachucaLandscape/html
+https://stevenmachuca144.github.io/RamonMachucaLandscape/index.html
